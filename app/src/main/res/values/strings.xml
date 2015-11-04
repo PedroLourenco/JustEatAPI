@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JustEatAPI</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_restaurant_list">RestaurantList</string>
+    <string name="postalCodeEmpty">Please insert postal code.</string>
+    <string name="noResults">No results for</string>
+
+
+
+</resources>
